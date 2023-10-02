@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f4b6505d6f848ddbe70a9c2f8dd19fa, type: 3}
+  m_Name: Task_1.2
+  m_EditorClassIdentifier: 
+  Pictures:
+  - {fileID: 21300000, guid: b722ca21aa0327644a0cc66a16566abd, type: 3}
+  - {fileID: 21300000, guid: e7e9fe69995d603479f0c6e06c374b4f, type: 3}
+  - {fileID: 21300000, guid: f35927317cb854741ba5f6b768f2c18d, type: 3}
+  - {fileID: 21300000, guid: 98aa8b9beb5b5634ba2642275247aba7, type: 3}
+  Word: MOUNTAINS
+  _IsCompleted: 0
